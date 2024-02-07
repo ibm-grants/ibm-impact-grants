@@ -1,22 +1,19 @@
+## Welcome to the IBM Impact Grants Portal User Guide
 
-# IBM Impact Grants User Guide
+[Read this guide in English][def-guide-en]
 
-## How to Create a Portal Account
+[Lea esta guía en español][def-guide-es]
 
-## How to Request Help
+[Leia este guia em português][def-guide-pt]
 
-## How to Start an Application
+[このガイドを日本語で読む][def-guide-jp]
 
-## How to Continue / Edit an Application
+[Lire ce guide en français][def-guide-fr]
 
-## How to Share an Application
 
-## How to Sign the IBM Affirmation of Compliance
 
-## How to Complete the Compliance Questionnaire
-
-## How to Sign the Agreement Document
-
-## How to Sign the Completion Form
-
-## How to Upload a Tax Receipt
+[def-guide-en]: /docs/user-guide/en/readme.md
+[def-guide-es]: /docs/user-guide/es/readme.md
+[def-guide-jp]: /docs/user-guide/jp/readme.md
+[def-guide-fr]: /docs/user-guide/fr/readme.md
+[def-guide-pt]: /docs/user-guide/pt/readme.md

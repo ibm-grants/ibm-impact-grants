@@ -28,6 +28,6 @@ Required questions are designated with a red asterisk and include:
 
 Click "Save" to save your work and stay on the application page. Click "Save & Close" to save and return later.
 
-Please note, you must click the "Submit" button to submit your application.
+Please note, you **must** click the "Submit" button to submit your application.
 
 ![Step 3](images/impact-grant-save-submit.png) 
