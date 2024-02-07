@@ -1,6 +1,6 @@
 ## Welcome to the IBM Impact Grants Portal User Guide
 
-[Read this guide in English](/docs/user-guide/en/readme.md)
+[Read this guide in English][def-guide-en]
 
 Lea esta guía en español
 
@@ -10,3 +10,6 @@ Leia este guia em português
 
 Lire ce guide en français
 
+
+
+[def-guide-en]: /docs/user-guide/en/readme.md
