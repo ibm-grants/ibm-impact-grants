@@ -15,11 +15,11 @@
 
 ## How to [Complete the Compliance Questionnaire][def-guide-07]
 
-## How to Sign the Agreement Document
+## How to [Sign the Agreement Document][def-guide-08]
 
-## How to Sign the Completion Form
+## How to [Sign the Completion Form][def-guide-09]
 
-## How to Upload a Tax Receipt
+## How to [Upload a Tax Receipt][def-guide-10]
 
 [def-guide-01]: 01-how-to-create-portal-account/readme.md
 [def-guide-02]: 02-how-to-request-help/readme.md
@@ -28,5 +28,6 @@
 [def-guide-05]: 05-how-to-share-application/readme.md
 [def-guide-06]: 06-how-to-sign-aoc/readme.md
 [def-guide-07]: 07-how-to-complete-questionnaire/readme.md
-[def-guide-08]: 08-how-to-sign-completion-form/readme.md
-[def-guide-09]: 08-how-to-upload-tax-receipt/readme.md
+[def-guide-08]: 08-how-to-sign-agreement-document/readme.md
+[def-guide-09]: 09-how-to-sign-completion-form/readme.md
+[def-guide-10]: 10-how-to-upload-tax-receipt/readme.md
