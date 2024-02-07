@@ -1,14 +1,14 @@
-## Welcome to the IBM Impact Grants Portal User Guide
+# Welcome to the IBM Impact Grants Portal User Guide
 
-[Read this guide in English][def-guide-en]
+## [Read this guide in English][def-guide-en]
 
-[Lea esta guía en español][def-guide-es]
+## [Lea esta guía en español][def-guide-es]
 
-[Leia este guia em português][def-guide-pt]
+## [Leia este guia em português][def-guide-pt]
 
-[このガイドを日本語で読む][def-guide-jp]
+## [このガイドを日本語で読む][def-guide-jp]
 
-[Lire ce guide en français][def-guide-fr]
+## [Lire ce guide en français][def-guide-fr]
 
 
 
