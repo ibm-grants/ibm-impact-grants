@@ -40,5 +40,6 @@ You can save your answers by clicking **Save** or **Save & Close** at the bottom
 ![Step 5](images/impact-grant-save.png) 
 
 ## Step 6 - Submit the form when you are complete
+When you the form is complete, you must click "Submit"
 
 ![Step 6](images/impact-grant-save-submit.png) 
