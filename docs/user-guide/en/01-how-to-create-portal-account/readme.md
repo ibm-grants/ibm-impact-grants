@@ -21,7 +21,7 @@
 
 ![Step 5](images/impact-grant-create-acct-complete.png) 
 
-## Step 6 - Your account has been created and you can complete your profile details.
+## Step 6 - Your account has been created and you can complete your profile details. Click *Confirm* when you are done.
 
 ![Step 6](images/impact-grant-account-details.png) 
 
