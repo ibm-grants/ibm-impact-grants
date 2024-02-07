@@ -4,7 +4,7 @@
 
 ![Step 1](images/impact-grant-login-page.png) 
 
-## Step 2 - Click the **Create an account** button
+## Step 2 - Click the __Create an account__ button
 
 ![Step 2](images/impact-grant-create-acct.png) 
 
