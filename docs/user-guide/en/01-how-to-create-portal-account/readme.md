@@ -4,9 +4,9 @@
 
 ![Step 1](images/impact-grant-login-page.png) 
 
-## Step 2 - Click the *Create an account* button
+## Step 2 - Click the **Create an account** button
 
-[Step 2](images/impact-grant-create-acct.png) 
+![Step 2](images/impact-grant-create-acct.png) 
 
 ## Step 3 - Enter a valid *email address* in both boxes. 
 
