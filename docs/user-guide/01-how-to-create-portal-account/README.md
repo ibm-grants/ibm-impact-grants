@@ -14,7 +14,14 @@
 
 ## Step 4 - Check the "I'm not a robot" checkbox and answer the Captcha challenge.
 
-![Step 3](images/impact-grant-create-account-captcha.jpg) 
-![Step 3](images/impact-grant-create-account-captcha.png) 
+![Step 4](images/impact-grant-create-account-captcha.jpg) 
+![Step 4](images/impact-grant-create-account-captcha.png) 
 
-## Click the <span style="color: blue">**Create new account**</span> button to proceed.
+## Step 5 - Click the <span style="color: blue">**Create new account**</span> button to proceed.
+
+![Step 5](impact-grant-create-acct-complete.png) 
+
+## Step 6 - Your account has been created and you can complete your profile details.
+
+![Step 5](impact-grant-account-details.png) 
+
