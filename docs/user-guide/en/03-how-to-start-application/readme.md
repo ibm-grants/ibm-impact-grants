@@ -35,7 +35,7 @@ Required questions are designated with a red asterisk and include:
 
 
 ## Step 5 - Choose to Save, Save & Close
-You can save your answers by clicking **Save** or **Save & Close** at the bottom of the form.
+You can save your answers by clicking "Save" or "Save & Close" at the bottom of the form.
 
 ![Step 5](images/impact-grant-save.png) 
 
