@@ -1,6 +1,6 @@
 Read this guide in:
 
-[English](/user-guide/README.md)
+[English](/docs/user-guide/README.md)
 
 Español
 
