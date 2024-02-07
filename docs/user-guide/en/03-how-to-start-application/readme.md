@@ -14,6 +14,27 @@ An invitation code from IBM is necessary to proceed. Please reach out to your IB
 ![Step 3](images/impact-grant-data-privacy-stmt.png) 
 
 ## Step 4 - Complete the application questions
-You can save your answers by clicking **Save** or **Save & Close** at the bottom of the form.
+
+Required questions are designated with a red asterisk and include:
+
+- Grant application name
+- Full organization legal name in English
+- Country of organization headquarters
+- Entity type of organization
+- Mission statement / organization description
+- Primary focus area
+- Organization reach
+- Address of organization headquarters
+- City of organization headquarters
+- Postal code of organization headquarters
+- Country registration number
+- Country registration documentation
+- Primary contact at organization (name, job title, email address and phone number)
+- Authorized signer contact at organization (name, job title, email address)
+- Referring IBM employee (name and email), if any
+
 
 ## Step 5 - Choose to Save, Save & Close, or Submit the 
+You can save your answers by clicking **Save** or **Save & Close** at the bottom of the form.
+
+![Step 4](images/impact-grant-save.png) 
