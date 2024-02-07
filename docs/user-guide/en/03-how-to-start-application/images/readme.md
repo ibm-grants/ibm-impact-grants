@@ -10,4 +10,4 @@
 
 ## Step 3 - Accept the Data Privacy Statement
 
-![Step 3](images/impact-grant-homepage-get-started.png) 
+![Step 3](images/impact-grant-data-privacy-stmt.png) 
