@@ -34,7 +34,11 @@ Required questions are designated with a red asterisk and include:
 - Referring IBM employee (name and email), if any
 
 
-## Step 5 - Choose to Save, Save & Close, or Submit the 
+## Step 5 - Choose to Save, Save & Close
 You can save your answers by clicking **Save** or **Save & Close** at the bottom of the form.
 
-![Step 4](images/impact-grant-save.png) 
+![Step 5](images/impact-grant-save.png) 
+
+## Step 6 - Submit the form when you are complete
+
+![Step 6](images/impact-grant-save-submit.png) 
