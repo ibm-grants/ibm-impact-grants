@@ -19,9 +19,9 @@
 
 ## Step 5 - Click the <span style="color: blue">**Create new account**</span> button to proceed.
 
-![Step 5](impact-grant-create-acct-complete.png) 
+![Step 5](images/impact-grant-create-acct-complete.png) 
 
 ## Step 6 - Your account has been created and you can complete your profile details.
 
-![Step 5](impact-grant-account-details.png) 
+![Step 6](images/impact-grant-account-details.png) 
 
