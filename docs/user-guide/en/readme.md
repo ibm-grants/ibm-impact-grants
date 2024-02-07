@@ -21,4 +21,4 @@
 
 ## How to Upload a Tax Receipt
 
-[def-guide-01]: /01-how-to-create-portal-account/readme.md
+[def-guide-01]: 01-how-to-create-portal-account/readme.md
