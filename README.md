@@ -1,12 +1,12 @@
 Read this guide in:
 
-[English](/docs/user-guide/README.md)
+[Read this guide in English](/docs/user-guide/README.md)
 
-Español
+Lea esta guía en español
 
-Português
+Leia este guia em português
 
-日本語
+このガイドを日本語で読む
 
-Français
+Lire ce guide en français
 
